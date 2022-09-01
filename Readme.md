@@ -40,7 +40,7 @@
 
 1. 使用`data_insert.py`导入数据到本地的数据库，默认会新建一个数据库；
 2. 在db/`connect_db.php `中修改mysql的账户密码；
-3. 打开apache服务器，在浏览器打开`login.php`启动登录页面。（也可用vscode的插件php sevesr直接打开。
+3. 打开apache服务器，在浏览器打开`login.php`启动登录页面。（也可用vscode的插件php sevesr直接打开）。
 
 
 
